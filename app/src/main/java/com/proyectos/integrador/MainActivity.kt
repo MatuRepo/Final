@@ -33,3 +33,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+//documentacion para viewBinding correcta
+//buildFeatures {
+//     dataBinding = true
+//     viewBinding = true
+//}
